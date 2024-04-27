@@ -54,6 +54,7 @@ except Exception as e:
 
 ![AAIOP-1](https://github.com/MEENA155/Ex-8--AAI/assets/94677128/16ea6943-3ef4-449b-84a4-0acb5fb5e11d)
 
+![AAIOP-02](https://github.com/MEENA155/Ex-8--AAI/assets/94677128/0246b676-4345-40fe-a177-1db4cdbc1734)
 
 <H3> Result:</H3>
 
