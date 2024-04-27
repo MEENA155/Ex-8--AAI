@@ -52,8 +52,8 @@ except Exception as e:
 ~~~
 <H3> Output:</H3>
 
-![output](AAIOP-1.png)
-![output](AAIOP-02.png)
+![AAIOP-1](https://github.com/MEENA155/Ex-8--AAI/assets/94677128/16ea6943-3ef4-449b-84a4-0acb5fb5e11d)
+
 
 <H3> Result:</H3>
 
